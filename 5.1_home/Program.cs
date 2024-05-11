@@ -45,7 +45,7 @@ namespace _5._2
         /// <summary>
         /// Метод для вывода готовой строки
         /// </summary>
-        /// <param name="FinalText">Разделённая строка</param>
+        /// <param name="ReadyText">Разделённая строка</param>
         static void Print(string ReadyText)
         {
             Console.Write(ReversWords(ReadyText));
